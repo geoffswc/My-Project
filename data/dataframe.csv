@@ -1,0 +1,101 @@
+patient_id,systolic,diastolic,bp_stage
+1,127.0,66.0,Elevated
+2,118.0,76.0,Normal
+3,130.0,77.0,Stage 1 Hypertension
+4,143.0,72.0,Stage 2 Hypertension
+5,116.0,78.0,Normal
+6,116.0,84.0,Stage 1 Hypertension
+7,144.0,99.0,Stage 2 Hypertension
+8,132.0,82.0,Stage 1 Hypertension
+9,113.0,83.0,Stage 1 Hypertension
+10,128.0,79.0,Elevated
+11,113.0,61.0,Normal
+12,113.0,80.0,Stage 1 Hypertension
+13,124.0,81.0,Stage 1 Hypertension
+14,91.0,105.0,Stage 2 Hypertension
+15,94.0,78.0,Normal
+16,112.0,83.0,Stage 1 Hypertension
+17,105.0,80.0,Stage 1 Hypertension
+18,125.0,68.0,Elevated
+19,106.0,91.0,Stage 2 Hypertension
+20,99.0,88.0,Stage 1 Hypertension
+21,142.0,88.0,Stage 1 Hypertension
+22,117.0,71.0,Normal
+23,121.0,94.0,Stage 2 Hypertension
+24,99.0,66.0,Normal
+25,112.0,86.0,Stage 1 Hypertension
+26,122.0,102.0,Stage 2 Hypertension
+27,103.0,70.0,Normal
+28,126.0,74.0,Elevated
+29,111.0,81.0,Stage 1 Hypertension
+30,116.0,75.0,Normal
+31,111.0,64.0,Normal
+32,148.0,81.0,Stage 1 Hypertension
+33,120.0,69.0,Elevated
+34,104.0,85.0,Stage 1 Hypertension
+35,132.0,71.0,Stage 1 Hypertension
+36,102.0,95.0,Stage 2 Hypertension
+37,123.0,72.0,Elevated
+38,91.0,77.0,Normal
+39,100.0,88.0,Stage 1 Hypertension
+40,123.0,68.0,Elevated
+41,131.0,82.0,Stage 1 Hypertension
+42,123.0,93.0,Stage 2 Hypertension
+43,118.0,64.0,Normal
+44,115.0,82.0,Stage 1 Hypertension
+45,98.0,83.0,Stage 1 Hypertension
+46,109.0,88.0,Stage 1 Hypertension
+47,113.0,68.0,Normal
+48,136.0,67.0,Stage 1 Hypertension
+49,125.0,85.0,Stage 1 Hypertension
+50,94.0,83.0,Stage 1 Hypertension
+51,125.0,83.0,Stage 1 Hypertension
+52,114.0,83.0,Stage 1 Hypertension
+53,110.0,73.0,Normal
+54,129.0,82.0,Stage 1 Hypertension
+55,135.0,83.0,Stage 1 Hypertension
+56,134.0,73.0,Stage 1 Hypertension
+57,107.0,99.0,Stage 2 Hypertension
+58,115.0,85.0,Stage 1 Hypertension
+59,125.0,68.0,Elevated
+60,135.0,87.0,Stage 1 Hypertension
+61,113.0,70.0,Normal
+62,117.0,88.0,Stage 1 Hypertension
+63,103.0,92.0,Stage 2 Hypertension
+64,102.0,72.0,Normal
+65,132.0,90.0,Stage 1 Hypertension
+66,140.0,84.0,Stage 1 Hypertension
+67,119.0,88.0,Stage 1 Hypertension
+68,135.0,99.0,Stage 1 Hypertension
+69,125.0,78.0,Elevated
+70,110.0,72.0,Normal
+71,125.0,71.0,Elevated
+72,143.0,72.0,Stage 2 Hypertension
+73,119.0,79.0,Normal
+74,143.0,83.0,Stage 1 Hypertension
+75,81.0,83.0,Stage 1 Hypertension
+76,132.0,88.0,Stage 1 Hypertension
+77,121.0,80.0,Stage 1 Hypertension
+78,116.0,95.0,Stage 2 Hypertension
+79,121.0,77.0,Elevated
+80,90.0,107.0,Stage 2 Hypertension
+81,117.0,86.0,Stage 1 Hypertension
+82,125.0,71.0,Elevated
+83,142.0,69.0,Stage 2 Hypertension
+84,112.0,85.0,Stage 1 Hypertension
+85,108.0,78.0,Normal
+86,112.0,87.0,Stage 1 Hypertension
+87,134.0,85.0,Stage 1 Hypertension
+88,125.0,79.0,Elevated
+89,112.0,72.0,Normal
+90,128.0,65.0,Elevated
+91,121.0,76.0,Elevated
+92,135.0,89.0,Stage 1 Hypertension
+93,109.0,82.0,Stage 1 Hypertension
+94,115.0,68.0,Normal
+95,114.0,82.0,Stage 1 Hypertension
+96,98.0,84.0,Stage 1 Hypertension
+97,124.0,71.0,Elevated
+98,124.0,82.0,Stage 1 Hypertension
+99,120.0,81.0,Stage 1 Hypertension
+100,116.0,69.0,Normal
