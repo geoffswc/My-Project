@@ -10,9 +10,13 @@ This repository contains workbooks and data to analyze blood pressure readings f
 
 ## Workbooks
 
-BP_Analysis.ipynb
+[BP_Analysis.ipynb](BP_Analysis.ipynb)
 
 ## Data
+
+## Visualizations
+
+![Histogram](images/histogram.png)
 
 ## References
 
